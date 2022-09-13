@@ -4,7 +4,7 @@
 if BOARD_VAN
 
 config ZMK_KEYBOARD_NAME
-	default "van"
+	default "Scallop"
 
 if USB
 
