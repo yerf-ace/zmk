@@ -7,11 +7,8 @@
 # board: [ "nice_nano_v2" ]
 # shield: [ "corne_left", "corne_right" ]
 # include:
-      board: van
-      shield: scallop
 #   - board: bdn9_rev2
 #   - board: nice_nano_v2
 #     shield: reviung41
-#
 #
 ---
