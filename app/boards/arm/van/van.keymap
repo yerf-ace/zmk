@@ -40,7 +40,7 @@
 			bindings = <
 	&kp ESC  &kp N1  &kp N2  &kp N3  &kp N4  &kp N5  &kp N6  &kp N7  &kp N8  &kp N9  &kp EQUAL  &kp BSPC &kp DEL
 	&mo 2  &LPAR  &RPAR  &LBKT  &RBKT  &trans  &kp COLON  &kp N4  &kp N5  &N6  &kp MINUS &kp ENTER          
-	&kp LSHFT   &kp GRAVE &kp BSLH  &trans  &trans &trans  &trans &kp N1  &kp N2 &kp N3 &kp UP &kp RSHFT
+	&kp LSHFT   &kp GRAVE &kp BSLH  &trans  &trans &trans  &kp SEMI &kp N1  &kp N2 &kp N3 &kp UP &kp RSHFT
 	&kp LCTRL &kp LGUI &kp LALT &kp mo 2 &kp N0     &kp N0      &kp LEFT  &kp DOWN  &kp RIGHT   
 			>;
 		};
