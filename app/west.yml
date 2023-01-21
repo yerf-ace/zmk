@@ -7,12 +7,6 @@ manifest:
     - name: microsoft
       url-base: https://github.com/microsoft
   projects:
-      - name: zmk
-      remote: zmkfirmware
-      revision: main
-      import: app/west.yml
-  self:
-    path: config
     - name: zephyr
       remote: zmkfirmware
       revision: v2.5.0+zmk-fixes
